@@ -46,3 +46,6 @@ cd Odoo-Docker
 ```
 docker-compose up
 ``` 
+#### 🛠 [Visual Studio Code](https://code.visualstudio.com/)
+#### 🛠 [Docker](https://hub.docker.com/)
+-----
