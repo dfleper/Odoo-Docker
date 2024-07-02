@@ -1,10 +1,11 @@
-# Odoo-Docker
+# Odoo-Docker 
+## Sistemas de Gestión Empresarial SSG.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/Odoo-Docker?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/Odoo-Docker?color=blue&label=last-commit&logo=github&logoColor=white)
 
 - Odoo exercise with Docker subject Business Management Systems.
-- Ejercicio de Odoo con Docker asignatura Sistemas de Gestión Empresarial, DAM.
+- Ejercicio de Odoo con Docker asignatura Sistemas de Gestión Empresarial, DAM (SSG).
 
 ### docker-compose.yml
 ```
