@@ -45,7 +45,10 @@ cd Odoo-Docker
 ### Step2/Paso2
 ```
 docker-compose up
-``` 
-#### 🛠 [Visual Studio Code](https://code.visualstudio.com/)
+```
+### Step3/Paso3
+```
+http://localhost:8069/
+```
 #### 🛠 [Docker](https://hub.docker.com/)
 -----
