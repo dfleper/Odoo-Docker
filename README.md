@@ -36,3 +36,12 @@ volumes:
   odoo-db-data: 
   odoo-web-config:
 ```
+### Step 1/Paso 1
+```
+git clone https://github.com/dfleper/Odoo-Docker
+cd Odoo-Docker
+```
+### Step2/Paso2
+```
+docker-compose up
+``` 
